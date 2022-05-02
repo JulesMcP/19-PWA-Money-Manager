@@ -43,8 +43,8 @@
     ],
     "name": "Money Manager",
     "short_name": "Lifeline",
-    "theme_color": "",
+    "theme_color": "#ffffff",
     "background_color": "#dddddd",
-    "start_url": "/index.html",
+    "start_url": "../index.html",
     "display": "standalone"
 }

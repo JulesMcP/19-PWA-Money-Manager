@@ -3,12 +3,11 @@
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
 ## Description
-
+This is a budgeting app designed for the traveling enthusiast. This will enable the user to track his/her withdrawals and deposits with or without internet connection in order to keep accurate account updates.
 
 ## Table of Contents
 * [GitHub Site](#GitHub)
 * [Installation](#installation)
-* [Usage](#usage)
 * [Technologies](#technologies)
 * [Contributions](#contributions)
 * [Questions](#questions)
@@ -21,13 +20,18 @@
 
 ## Installation
 
-Clone the repo; run npm init; npm i express, npm i mongoose.
-
-## Usage
-
-
+Clone the repo, run npm init, npm i express, npm i mongoose, npm i morgan, npm i compression.
 
 ## Technologies
+-HTML
+-CSS
+-JavaScript
+-Express
+-Mongoose
+-Morgan
+-Compression
+-MongoDB Atlas
+-Heroku
 
 This app was created using 
 
