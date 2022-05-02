@@ -50,7 +50,8 @@ This project was developed under the GNU license.
 [More information about MIT](https://opensource.org/licenses/MIT)
 
 ## Screenshot
-![image](https://user-images.githubusercontent.com/95149604/166342006-f96c607c-4eb3-409d-bb4e-11f97a692aeb.png)
+
+![image](https://user-images.githubusercontent.com/95149604/166342300-7c9bfd77-fbc7-444b-8ec3-cfeee5a03e49.png)
 
 ## Deployed Link
 
