@@ -54,6 +54,6 @@ This project was developed under the GNU license.
 ![image](https://user-images.githubusercontent.com/95149604/166342300-7c9bfd77-fbc7-444b-8ec3-cfeee5a03e49.png)
 
 ## Deployed Link
-
+[Click to be taken to the deployed link!](https://young-anchorage-51171.herokuapp.com/)
 
 
